@@ -17,6 +17,3 @@ The **LinkedIn Post Generator** is a powerful tool designed to help LinkedIn inf
    - Utilizes the Llama 3.2 model to generate new posts based on user-selected parameters.
    - Employs prompt engineering to ensure generated content aligns with the influencer's style.
 
-## Installation Instructions
-To run the LinkedIn Post Generator locally:
-1. Clone the repository:
